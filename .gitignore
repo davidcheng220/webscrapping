@@ -4,3 +4,5 @@ ptt_artical/
 retrieved_images/
 __pycache__
 res_gossiping/
+ptt.csv
+ptt_no_column.csv
