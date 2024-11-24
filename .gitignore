@@ -6,3 +6,6 @@ __pycache__
 res_gossiping/
 ptt.csv
 ptt_no_column.csv
+staff_detail.csv
+staff.csv
+chromedriver.exe
